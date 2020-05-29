@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Project's Ignore rules
+dataset/**
+project_env/**
+.vscode/**
+models/**
+data/**
